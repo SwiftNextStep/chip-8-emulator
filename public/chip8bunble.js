@@ -1,0 +1,1 @@
+(()=>{"use strict";class e{constructor(){console.log("Create a new Display"),this.screen=document.querySelector("canvas")}}new class{constructor(){console.log("Create a new Chip-8"),this.display=new e}}})();

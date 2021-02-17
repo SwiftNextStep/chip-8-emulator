@@ -1,0 +1,16 @@
+{
+  "name": "chip-8-emulator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^5.21.2",
+    "webpack-cli": "^4.5.0"
+  }
+}
